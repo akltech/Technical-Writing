@@ -13,7 +13,7 @@ View a [sample of my work at GitLab](https://drive.google.com/file/d/1PdCjoOhWA0
 # Notable Projects
 
 - **Primary author of the GitLab Profile Preferences Page**
-   - I rewrote and restructured GitLab's profile preferences page and created documentation for previously undocumented user settings.
+   - I rewrote and restructured GitLab's profile preferences page and created documentation for previously undocumented user settings. I collaborated with the staff technical writer and SMEs to validate the functionality and usability of various settings.
    - Technical Tools: Markdown, Visual Studio Code (VSCode), Git, Pandoc for PDF conversion, Microsoft Word.
    - [View Sample of My Work at GitLab PDF](https://github.com/akltech/Technical-Writing/blob/5b2ee3879d2c6d204c025899119adc785c94e97f/Profile%20preferences%20GitLab.pdf).
    - [View Previous Version of GitLab Doc PDF](https://drive.google.com/file/d/1wnEYDtvtqUdvyXOx7uBmJXtDsHPeH5wo/view?usp=drive_link)
