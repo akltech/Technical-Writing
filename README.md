@@ -2,7 +2,7 @@
 
 As a technical writer, my experience includes:
 
-1. Content Creation and Editing
+1. Content creation and editing.
 
 2. Information architecture design for documentation.
 
@@ -13,18 +13,18 @@ View a [sample of my work at GitLab](https://drive.google.com/file/d/1PdCjoOhWA0
 # Notable Projects
 
 - **Primary author of the GitLab Profile Preferences Page**
-   - I, along with other writers and SMEs, restructured, rewrote, and created documentation for various GitLab user settings, including options for the Web IDE.
-   - Technical Tools: Markdown, Visual Studio Code (VSCode), Git, Pandoc for PDF conversion, Microsoft Word.
-   - [View Sample of My Work at GitLab PDF](https://github.com/akltech/Technical-Writing/blob/5b2ee3879d2c6d204c025899119adc785c94e97f/Profile%20preferences%20GitLab.pdf).
-   - [View Previous Version of GitLab Doc PDF](https://drive.google.com/file/d/1wnEYDtvtqUdvyXOx7uBmJXtDsHPeH5wo/view?usp=drive_link)
+   - I, along with other writers and SMEs, rewrote and restructured GitLab's profile preferences page and created documentation for various user settings.
+   - Technical Tools: Markdown, Visual Studio Code (VSCode), Git, GitLab, Pandoc for PDF conversion, Microsoft Word.
+   - [View sample of my work at GitLab (PDF).](https://github.com/akltech/Technical-Writing/blob/5b2ee3879d2c6d204c025899119adc785c94e97f/Profile%20preferences%20GitLab.pdf).
+   - [View previous version of GitLab Doc (PDF).](https://drive.google.com/file/d/1wnEYDtvtqUdvyXOx7uBmJXtDsHPeH5wo/view?usp=drive_link)
 
 - **OpenCV Technical Documentation**
    - I created a step-by-step guide for object detection with OpenCV and Python.
    - Technical Tools: Markdown, GitHub, Git, VSCode, Pandoc, Microsoft Word.
-   - [View Tutorial PDF](opencv-tutorial.pdf).
-   - [View on Gitlab](https://github.com/akltech/Object-Detection/blob/main/README.md).
+   - [View tutorial (PDF).](opencv-tutorial.pdf).
+   - [View tutorial on Github.](https://github.com/akltech/Object-Detection/blob/main/README.md).
 
 - **GitLab Docs Contributions**
    - Contributed to GitLab's documentation through various merge requests.
-   - [View Merge Requests](https://gitlab.com/dashboard/merge_requests?scope=all&state=merged&assignee_username=alexandralicht0)
+   - [View my merge requests.](https://gitlab.com/dashboard/merge_requests?scope=all&state=merged&assignee_username=alexandralicht0)
 
