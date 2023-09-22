@@ -21,8 +21,8 @@ View a [sample of my work at GitLab](https://drive.google.com/file/d/1PdCjoOhWA0
 - **OpenCV Technical Documentation**
    - I created a step-by-step guide for object detection with OpenCV and Python.
    - Technical Tools: Markdown, GitHub, Git, VSCode, Pandoc, Microsoft Word.
-   - [View tutorial (PDF)](opencv-tutorial.pdf).
    - [View tutorial on Github](https://github.com/akltech/Object-Detection/blob/main/README.md).
+   - [View tutorial (PDF)](opencv-tutorial.pdf).
 
 - **GitLab Docs Contributions**
    - Contributed to GitLab's documentation through various merge requests.
